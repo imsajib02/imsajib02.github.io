@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A responsive portfolio application of mine, built using Flutter framework, Firebase realtime database and Bloc state management.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
