@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "404.html": "d831b3a220ef7dd04180e50078a51c13",
+  "404.html": "46f16e35a5bb86faca6049302d2fbc41",
 "assets/AssetManifest.json": "8b05af0fde30dc338c9f4802a36cfaa4",
 "assets/assets/animations/splash_loading.json": "fb54677f8458b0f168a60ec2f18bd3d4",
 "assets/assets/gif/programmer2.gif": "680033459de4ba5559b8d3094ad0987b",
@@ -32,9 +32,9 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "5ab24afeacdc541f6db34fd3c3a46bd0",
 "icons/Icon-192.png": "47763699f24137cdb98f4d192d332b07",
 "icons/Icon-512.png": "1eff3eb3bff7c2325199ea4495840a59",
-"index.html": "47192742a6665146d85f8f72797c9706",
-"/": "47192742a6665146d85f8f72797c9706",
-"main.dart.js": "e13c3fd46e7f716b903fc83db21841e6",
+"index.html": "883e839f5d0d8833a7570c73a72b706c",
+"/": "883e839f5d0d8833a7570c73a72b706c",
+"main.dart.js": "48e1c33be664220129a9a0fffc7c90cd",
 "manifest.json": "c0c802c9f1af59e7ba46476289418233",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
