@@ -32,9 +32,9 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "5ab24afeacdc541f6db34fd3c3a46bd0",
 "icons/Icon-192.png": "47763699f24137cdb98f4d192d332b07",
 "icons/Icon-512.png": "1eff3eb3bff7c2325199ea4495840a59",
-"index.html": "883e839f5d0d8833a7570c73a72b706c",
-"/": "883e839f5d0d8833a7570c73a72b706c",
-"main.dart.js": "48e1c33be664220129a9a0fffc7c90cd",
+"index.html": "89474018644d8df65395caaf719f09af",
+"/": "89474018644d8df65395caaf719f09af",
+"main.dart.js": "19660aaa8c418f189e52b2da4ed6175a",
 "manifest.json": "c0c802c9f1af59e7ba46476289418233",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
