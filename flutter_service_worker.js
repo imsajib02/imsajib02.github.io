@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/assets/images/no_image.png": "51a781d442c43c68c4b273baf0144502",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "dc49e76255aca3dd5516ab8ca391cb82",
+"assets/NOTICES": "e167ccd5de1f3bab55289ccbe3927ab1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
@@ -32,9 +32,9 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "5ab24afeacdc541f6db34fd3c3a46bd0",
 "icons/Icon-192.png": "47763699f24137cdb98f4d192d332b07",
 "icons/Icon-512.png": "1eff3eb3bff7c2325199ea4495840a59",
-"index.html": "89474018644d8df65395caaf719f09af",
-"/": "89474018644d8df65395caaf719f09af",
-"main.dart.js": "19660aaa8c418f189e52b2da4ed6175a",
+"index.html": "6b97fc1ddf830fb7a2c3bd01bb62a7dc",
+"/": "6b97fc1ddf830fb7a2c3bd01bb62a7dc",
+"main.dart.js": "a48d26b69f957a29a5e35cd5a9179468",
 "manifest.json": "c0c802c9f1af59e7ba46476289418233",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
